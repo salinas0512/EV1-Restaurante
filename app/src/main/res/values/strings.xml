@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">U1_Restaurante</string>
+    <string name="pastel_choclo">Pastel de choclo</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="cantidad">Cant.</string>
+    <string name="comida">Comida</string>
+    <string name="propina">Propina</string>
+    <string name="Total">TOTAL</string>
+</resources>
